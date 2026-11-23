@@ -6,7 +6,7 @@ This repository contains my Python learning journey, including basic concepts, p
 
 📚 Topics Covered
 
--[] Introduction to Python
+- How Python works and its Syntax
 
 
 🎯 Objectives

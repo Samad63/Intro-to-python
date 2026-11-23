@@ -1,7 +1,0 @@
-marks = 72
-if marks >= 50:
-    print("Pass")
-    print("Well done")
-else:
-    print("Fail")
-print("Result declared")
